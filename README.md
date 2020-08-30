@@ -1,4 +1,4 @@
-### Hi there 👋
+### Started the journey of programming after the completion of my SLC. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. My Professional Career started during the 3rd year of my Bachelor joining company (Phoenix Solution Pvt ltd) as a junior software developer. Then I have been working with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I have completed my Bachelors in Computer Engineering from TU in 2019.
 
 <!--
 **dipesh429/dipesh429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
