@@ -9,8 +9,9 @@
 
 <hr />
 
+> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. My Professional Career started during the 3rd year of my Bachelor joining company (Phoenix Solution Pvt ltd) as a junior software developer. Then I have been working with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I have completed my Bachelors in Computer Engineering from TU in 2019. </p>
 
-<p> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. My Professional Career started during the 3rd year of my Bachelor joining company (Phoenix Solution Pvt ltd) as a junior software developer. Then I have been working with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I have completed my Bachelors in Computer Engineering from TU in 2019. </p>
+<hr/>
 
 <h3>✍️ Featured Medium Stories:</h3>
 <ul>
