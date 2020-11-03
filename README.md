@@ -17,7 +17,9 @@
 
 <h3>✍️ Featured Medium Stories:</h3>
 <ul>
+  <li><a href="https://medium.com/wesionary-team/deploying-next-js-application-on-firebase-platform-using-cloud-function-with-firebase-hosting-920157f03267">Deploying Next.js Application on Firebase Platform using Cloud Function with Firebase Hosting.</a></li>  
 <li><a href="https://medium.com/wesionary-team/practical-example-of-concurrency-on-golang-fc4609ea8ed1">Practical Example of Concurrency on Golang</a></li>
+  <li><a href="https://medium.com/wesionary-team/dockerize-a-golang-applications-with-mysql-and-phpmyadmin-hot-reloading-included-86eb7a6cf8d5">Dockerize a Golang Applications with MySQL and phpMyAdmin</a></li>  
 <li><a href="https://medium.com/wesionary-team/implementing-react-jss-on-next-js-projects-7ceaee985cad">Implementing React-JSS on Next.js Projects</a></li>
 <li><a href="https://medium.com/wesionary-team/implementing-complete-authentication-flow-in-react-using-aws-amplify-hacks-included-a68c592400df">Implementing Complete Authentication Flow in React using AWS Amplify [Customization Included]</a></li>
 </ul>
