@@ -17,7 +17,10 @@
 
 <h3>✍️ Featured Medium Stories:</h3>
 <!-- BLOG-POST-LIST:START -->
-
+- [Implementation of UUID and binary(16) in gorm v2.](https://medium.com/wesionary-team/implementation-of-uuid-and-binary-16-in-gorm-v2-1c329c352c91?source=rss-e255b2e0c5e7------2)
+- [Customize Social Media Preview of your NextJS Website Links](https://medium.com/wesionary-team/customize-social-media-preview-of-your-nextjs-website-links-82f6bce035b?source=rss-e255b2e0c5e7------2)
+- [Dockerize a Golang Applications with MySQL and phpMyAdmin [Hot Reloading Included]](https://medium.com/wesionary-team/dockerize-a-golang-applications-with-mysql-and-phpmyadmin-hot-reloading-included-86eb7a6cf8d5?source=rss-e255b2e0c5e7------2)
+- [Deploying Next.js Application on Firebase Platform using Cloud Function with Firebase Hosting.](https://medium.com/wesionary-team/deploying-next-js-application-on-firebase-platform-using-cloud-function-with-firebase-hosting-920157f03267?source=rss-e255b2e0c5e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
