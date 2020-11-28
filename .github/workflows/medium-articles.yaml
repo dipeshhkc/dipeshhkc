@@ -2,7 +2,7 @@
 name: Latest Medium Article workflow
 on: 
     schedule:
-        - cron: '* * * * *'
+        - cron: '0 * * * *'
 jobs: 
     update-medium-article-list-in-readme: 
         name: Update this repo's README with latest blog posts
