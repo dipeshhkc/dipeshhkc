@@ -15,7 +15,7 @@
 
 <hr/>
 
-<h3>✍️ Featured Medium Stories:</h3>
+<h3>✍️ Featured Latest Medium Stories:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Implementation of UUID and binary(16) in gorm v2.](https://medium.com/wesionary-team/implementation-of-uuid-and-binary-16-in-gorm-v2-1c329c352c91?source=rss-e255b2e0c5e7------2)
