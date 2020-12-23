@@ -18,11 +18,11 @@
 <h3>✍️ Featured Latest Medium Stories:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your Next.js Application on Google App Engine in minutes.](https://medium.com/wesionary-team/deploy-your-next-js-application-on-google-app-engine-in-minutes-cf04c18011ac?source=rss-e255b2e0c5e7------2)
 - [Integration of Firebase Analytics in Nextjs Application in Minutes.](https://medium.com/wesionary-team/integration-of-firebase-analytics-in-nextjs-application-in-minutes-ea5e051ef82a?source=rss-e255b2e0c5e7------2)
 - [Implementation of UUID and binary(16) in gorm v2.](https://medium.com/wesionary-team/implementation-of-uuid-and-binary-16-in-gorm-v2-1c329c352c91?source=rss-e255b2e0c5e7------2)
 - [Customize Social Media Preview of your NextJS Website Links](https://medium.com/wesionary-team/customize-social-media-preview-of-your-nextjs-website-links-82f6bce035b?source=rss-e255b2e0c5e7------2)
 - [Dockerize a Golang Applications with Hot Reloading [MySQL and phpMyAdmin Included]](https://medium.com/wesionary-team/dockerize-a-golang-applications-with-mysql-and-phpmyadmin-hot-reloading-included-86eb7a6cf8d5?source=rss-e255b2e0c5e7------2)
-- [Deploying Next.js Application on Firebase Platform using Cloud Function with Firebase Hosting.](https://medium.com/wesionary-team/deploying-next-js-application-on-firebase-platform-using-cloud-function-with-firebase-hosting-920157f03267?source=rss-e255b2e0c5e7------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr/>
