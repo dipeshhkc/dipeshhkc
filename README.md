@@ -9,7 +9,7 @@
 
 <hr />
 
-> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. My Professional Career started during the 3rd year of my Bachelor joining company in Nepal as a junior software developer. Then I have been working with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I have completed my Bachelors in Computer Engineering from TU in 2019. </p>
+> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. My Professional Career started joining company in Nepal as a junior software developer in 2018.Then I have been working with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I am currently working with Golang/React Stack. I have completed my Bachelors in Computer Engineering from TU, Nepal. </p>
 
 - 🔭 I’m currently working at <a href="https://wesionary.team/" target="_blank">WesionaryTEAM</a> as a Golang/React Software Engineer.
 
