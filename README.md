@@ -16,6 +16,7 @@
 <h3>✍️ Featured Latest Medium Stories:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Database Transactions with Repository Pattern Golang(Gin and GORM) Application](https://medium.com/wesionary-team/implement-database-transactions-with-repository-pattern-golang-gin-and-gorm-application-907517fd0743?source=rss-e255b2e0c5e7------2)
 - [Deploy your Next.js Application on Google App Engine in minutes.](https://medium.com/wesionary-team/deploy-your-next-js-application-on-google-app-engine-in-minutes-cf04c18011ac?source=rss-e255b2e0c5e7------2)
 - [Integration of Firebase Analytics in Nextjs Application in Minutes.](https://medium.com/wesionary-team/integration-of-firebase-analytics-in-nextjs-application-in-minutes-ea5e051ef82a?source=rss-e255b2e0c5e7------2)
 <!-- BLOG-POST-LIST:END -->
