@@ -9,7 +9,7 @@
 
 <hr />
 
-> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. My Professional Career started joining company in Nepal as a junior software developer in 2018.Then I have been working with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I am currently working with Golang/React Stack. I have completed my Bachelors in Computer Engineering from TU, Nepal. </p>
+> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. I have worked with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I am currently working with Golang/React Stack. I have completed my Bachelors in Computer Engineering from TU, Nepal. </p>
 
 <hr/>
 
