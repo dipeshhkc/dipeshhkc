@@ -9,7 +9,7 @@
 
 <hr />
 
-> Started the journey of programming after the completion of my School. It has been around 5-6 years of learning different technologies. I have always been interested in the hot technologies in the market and added them to my skill sets. I have worked with various real-life projects ranging from web, mobile, real-time applications using different technology and frameworks. I am currently working with Golang/React Stack. I have completed my Bachelors in Computer Engineering from TU, Nepal. </p>
+> Since four years, with keen interest in technology, I have been honing my technical skillset while working with various real-life projects ranging from web, mobile to real-time applications with work roles as Software Developer, Team Lead and Project Manager. After finishing my computer engineering degree from TU, Nepal my interest in technology has piqued more and more and I hope to learn a great deal in the future. I am currently working with React-Golang-Flutter Stack. </p>
 
 <hr/>
 
