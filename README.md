@@ -9,7 +9,7 @@
 
 <hr />
 
-> Since four years, with keen interest in technology, I have been honing my technical skillset while working with various real-life projects ranging from web, mobile to real-time applications with work roles as Software Developer, Team Lead and Project Manager. After finishing my computer engineering degree from TU, Nepal my interest in technology has piqued more and more and I hope to learn a great deal in the future. I am currently working with React-Golang-Flutter Stack. </p>
+> Since five years, with keen interest in technology, I have been honing my technical skillset while working with various real-life projects ranging from web, mobile to real-time applications with work roles as Software Developer, Team Lead and Project Manager. After finishing my computer engineering degree from TU, Nepal my interest in technology has piqued more and more and I hope to learn a great deal in the future. I am currently working with React-Golang-Flutter Stack. </p>
 
 <hr/>
 
