@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello I'm Dipesh K.C. 👨‍💻</h1>
 
-<h3 align="center"> Full Stack Software Engineer from Nepal</h3>
+<h3 align="center"> Software Engineer from Nepal</h3>
 
 <h2 align="center"> 📬 Let's get in touch </h2>
 <p align="center">
@@ -9,7 +9,11 @@
 
 <hr />
 
-> For five years, with a keen interest in technology, I have been honing my technical skillset while working with various real-life projects ranging from web, mobile to real-time applications with work roles as Software Developer, Team Lead, and Project Manager. After finishing my computer engineering degree from TU, Nepal my interest in technology has piqued more and more and I hope to learn a great deal in the future. I am currently working with React-Golang-Flutter Stack. </p>
+> For over five years, with a keen interest in technology, I have been honing my technical skillset while working
+with various real-life projects ranging from web, mobile to real-time applications with work roles as Software
+Engineer, Team Lead, and Project Manager. After finishing my computer engineering degree from Nepal, my
+interest in technology has continuously piqued, and willing to collaborate with the most brilliant minds to
+create the best products. </p>
 
 <hr/>
 
