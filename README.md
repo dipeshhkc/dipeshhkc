@@ -1,7 +1,7 @@
 
-<h1 align="center">Hello I'm Dipesh KC 👨‍💻 🇳🇵 </h1>
+<h1 align="center">Hello I'm Dipesh KC </h1>
 
-<h3 align="center"> Software Engineer from Nepal</h3>
+<h3 align="center"> Software Engineer from Nepal  👨‍💻 🇳🇵 </h3>
 
 <h2 align="center"> 📬 Let's get in touch </h2>
 <p align="center">
