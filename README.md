@@ -20,6 +20,7 @@ create the best products. </p>
 <h3>✍️ Featured Latest Medium Stories:</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing RabbitMQ in Golang Applications](https://dipesh-kc.medium.com/implementing-rabbitmq-in-golang-applications-e01838171473)
 - [Authorization in Golang Projects using Casbin](https://medium.com/wesionary-team/authorization-in-golang-projects-using-casbin-f8fad744dae5?source=rss-e255b2e0c5e7------2)
 - [Understanding Casbin with different Access Control Model Configurations](https://medium.com/wesionary-team/understanding-casbin-with-different-access-control-model-configurations-faebc60f6da5?source=rss-e255b2e0c5e7------2)
 - [Implement Database Transactions with Repository Pattern Golang&lpar;Gin and GORM&rpar; Application](https://medium.com/wesionary-team/implement-database-transactions-with-repository-pattern-golang-gin-and-gorm-application-907517fd0743?source=rss-e255b2e0c5e7------2)
