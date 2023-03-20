@@ -9,7 +9,7 @@
 
 <hr />
 
-> For over six years, with a keen interest in technology, I have been honing my technical skillset while working
+> For over eight years, with a keen interest in technology, I have been honing my technical skillset while working
 with various real-life projects ranging from web, mobile to real-time applications with work roles as Software
 Engineer, Team Lead, and Project Manager. After finishing my computer engineering degree from Nepal, my
 interest in technology has continuously piqued, and willing to collaborate with the most brilliant minds to
