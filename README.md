@@ -9,11 +9,7 @@
 
 <hr />
 
-> For over eight years, with a keen interest in technology, I have been honing my technical skillset while working
-with various real-life projects ranging from web, mobile to real-time applications with work roles as Software
-Engineer, Team Lead, and Project Manager. After finishing my computer engineering degree from Nepal, my
-interest in technology has continuously piqued, and willing to collaborate with the most brilliant minds to
-create the best products. </p>
+> With over six years of experience in the technology industry, I have honed my technical skills by working on various real-life projects. My experience ranges from developing web and mobile applications to real-time systems. I have held diverse roles, including Software Engineer, Team Lead, and Project Manager. After obtaining a degree in computer engineering from Nepal, my passion for technology has continued to grow, and I am eager to collaborate with the brightest minds to create exceptional products. </p>
 
 <hr/>
 
